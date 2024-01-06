@@ -1,13 +1,13 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
+  - Procedural programming: 🖐️ used
+  - Imperative programming: 🎓 known
+  - Structured programming: 👂 heard
+  - Non-structured programming: 👂 heard
+  - Functional programming: 👂 heard
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming: 🖐️ used
   - Object-based programming
   - Generic programming
   - Concurrent computing
@@ -17,28 +17,28 @@
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
+  - Multi-paradigm programming: 🎓 known
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
+  - constructor: 🖐️ used
+  - new: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
   - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🎓 known
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
+  - Interface: 👂 heard
+  - Encapsulation: 🖐️ used
   - Hidden class
-  - Object form
-  - instance
+  - Object form: 🖐️ used
+  - instance: 🖐️ used
   - Introspection
   - Reflection
 - Patterns
@@ -52,7 +52,7 @@
   - Proxy
   - Chain of Responsibility
   - Command
-  - Iterator
+  - Iterator: 🖐️ used
   - State
   - Bridge
   - Builder
@@ -62,5 +62,5 @@
   - Flyweight
   - Mediator
   - Memento
-  - Template Method
+  - Template Method: 🖐️ used
   - Visitor
