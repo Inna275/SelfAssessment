@@ -22,17 +22,17 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
+  - Callbacks: 🙋 explained
+  - Callback-last-error-first: 🎓 known
   - Thenable
-  - Promise
-  - Async/await
+  - Promise: 🎓 known
+  - Async/await: 🖐️ used
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
+  - Event: 🎓 known
   - Coroutine
   - Goroutine
   - Signal
@@ -47,7 +47,7 @@
   - callbacks compose
   - async compose
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter: 🎓 known
   - Observable/Observer
   - Readable
   - Writable
@@ -59,9 +59,9 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - setImmediate
-  - nextTick
+  - Timers: 🖐️ used
+  - setImmediate: 🎓 known
+  - nextTick: 🎓 known
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
@@ -70,7 +70,7 @@
   - worker_threads
   - Atomics
   - High resolution clock
-  - Callback hell
+  - Callback hell: 🙋 explained
   - Promise hell
   - ref() and unref()
   - Error handling in async code
