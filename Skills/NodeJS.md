@@ -11,14 +11,14 @@
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules: 🖐️ used
-  - ECMAScript modules: 🖐️ used
+  - CommonJS modules: 🙋 explained
+  - ECMAScript modules: 🙋 explained
   - Module `node:module`: 🖐️ used
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules`: 🙋 explained
+  - Files `package.json`, `package-lock.json`: 🙋 explained
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -115,7 +115,7 @@
   - `error.code`: 🎓 known
   - `error.message`: 🎓 known
   - `error.stack`: 🎓 known
-  - `Error.captureStackTrace`
+  - `Error.captureStackTrace`: 🎓 known
   - How to avoid mixins
   - Uncaught exceptions
   - Heap dump
