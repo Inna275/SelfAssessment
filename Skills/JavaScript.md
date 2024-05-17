@@ -1,15 +1,15 @@
 ## JavaScript
 
 - Language
-  - `Object`: 🖐️ used
-  - `Function`
-  - `Boolean`
-  - `Number`
+  - `Object`: 🙋 explained
+  - `Function`: 🙋 explained
+  - `Boolean`: 🙋 explained
+  - `Number`: 🙋 explained
   - `BigInt`: 🙋 explained
-  - `String`
-  - `Symbol`: 🎓 known
-  - `Infinity`
-  - `NaN`
+  - `String`: 🙋 explained
+  - `Symbol`: 🙋 explained
+  - `Infinity`: 🙋 explained
+  - `NaN`: 🙋 explained
   - `undefined`: 🙋 explained
   - `null`: 🙋 explained
   - `this`: 🙋 explained
@@ -24,40 +24,40 @@
   - Async iterator: 👂 heard
   - Chaining: 🙋 explained
   - Optional chaining: 🙋 explained
-  - IIFE: 👂 heard
-  - Async IIFE
-  - `global`
-  - `globalThis`
-  - `window`
+  - IIFE: 🙋 explained
+  - Async IIFE: 🙋 explained
+  - `global`: 🎓 known
+  - `globalThis`: 🎓 known
+  - `window`: 🎓 known
   - Getters and setters: 🙋 explained
-  - `__proto__`: 🎓 known
-  - `prototype`: 🎓 known
+  - `__proto__`: 🙋 explained
+  - `prototype`: 🙋 explained
   - Equality operators: 🙋 explained
   - Logical operators: 🙋 explained
-  - Logical Assignment
-  - Bitwise operators: 🎓 known
+  - Logical Assignment: 🙋 explained
+  - Bitwise operators: 🙋 explained
   - Ternary operator: 🙋 explained
   - `void`: 🙋 explained
   - `yield`: 🎓 known
   - `await`: 🖐️ used
   - Template literal: 🙋 explained
   - Strict mode: 🙋 explained
-  - Hoisting
+  - Hoisting: 🙋 explained
   - `delete`: 🙋 explained
   - `in`: 🙋 explained
-  - `super`: 🎓 known
-  - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
-  - Property descriptors
-  - Sealing properties
-  - Freezing properties
-  - Computed properties
-  - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - `super`: 🙋 explained
+  - `eval`: 🎓 known
+  - `static`: 🙋 explained
+  - `Number.parseInt`: 🎓 known
+  - `Number.parseFloat`: 🎓 known
+  - Property descriptors: 🎓 known
+  - Sealing properties: 🎓 known
+  - Freezing properties: 🎓 known
+  - Computed properties: 🎓 known
+  - Instance class fields: 🎓 known
+  - Static class fields: 🙋 explained
+  - Private class fields: 🙋 explained
+  - Private class methods: 🙋 explained
 - Statements
   - `if`: 🖐️ used
   - `while`: 🖐️ used
@@ -75,9 +75,9 @@
   - `try..catch`: 🙋 explained
   - `switch`: 🙋 explained
   - `class`: 🙋 explained
-  - `extends`: 🎓 known
+  - `extends`: 🙋 explained
   - `with`: 🎓 known
-  - `new`
+  - `new`: 🙋 explained
 - Functions
   - Arrow function: 🙋 explained
   - Async function: 🎓 known
@@ -97,21 +97,21 @@
   - `WeakSet`: 🎓 known
   - Typed arrays: 🎓 known
   - Mixins: 🙋 explained
-  - `Object.assign`
+  - `Object.assign`: 🙋 explained
 - Standard classes and namespaces
   - `Proxy`: 👂 heard
   - `RegExp`: 🎓 known
   - `Date`: 🖐️ used
-  - `Math`
+  - `Math`: 🙋 explained
   - `Reflect`
   - `Error`: 🙋 explained
   - `Atomics`
-  - `JSON`
+  - `JSON`: 🙋 explained
   - `WeakRef`
   - `FinalizationRegistry`
-  - `Intl`
-  - `Promise`
-  - `console`
+  - `Intl`: 👂 heard
+  - `Promise`: 🎓 known
+  - `console`: 🙋 explained
   - Timers: 🖐️ used
 - Infrastructure
   - V8: 🎓 known

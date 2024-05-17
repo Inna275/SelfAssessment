@@ -2,30 +2,30 @@
 
 - Theory
   - Procedural programming: 🙋 explained
-  - Imperative programming: 🖐️ used
-  - Structured programming: 🎓 known
-  - Non-structured programming: 🎓 known
-  - Functional programming: 🎓 known
-  - Prototype-based programming: 🎓 known
+  - Imperative programming: 🙋 explained
+  - Structured programming: 🙋 explained
+  - Non-structured programming: 🙋 explained
+  - Functional programming: 🙋 explained
+  - Prototype-based programming: 🙋 explained
   - Object-oriented programming: 🙋 explained
   - Object-based programming: 🙋 explained
-  - Generic programming: 👂 heard
+  - Generic programming: 🎓 known
   - Concurrent computing
-  - Asynchronous programming: 👂 heard
+  - Asynchronous programming: 🎓 known
   - Parallel programming: 👂 heard
-  - Reactive programming: 👂 heard
+  - Reactive programming: 🎓 known
   - Functional-reactive (FRP)
-  - Automata-based programming
-  - Domain-specific languages: 👂 heard
-  - Multi-paradigm programming: 🖐️ used
+  - Automata-based programming: 🎓 known
+  - Domain-specific languages: 🙋 explained
+  - Multi-paradigm programming: 🙋 explained
   - Metaprogramming: 👂 heard
-  - Actor model
+  - Actor model: 👂 heard
   - Lambda calculus
-  - Black box
+  - Black box: 👂 heard
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
-  - Class composition
+  - Class composition: 🙋 explained
 - OOP basics
   - Constructor: 🖐️ used
   - Operator `new`: 🖐️ used
@@ -33,59 +33,59 @@
   - Method: 🙋 explained
   - Async method: 🖐️ used
   - Getters, Setters: 🖐️ used
-  - Public fields: 🖐️ used
-  - Private fields: 🖐️ used
+  - Public fields: 🙋 explained
+  - Private fields: 🙋 explained
   - Field declarations: 🙋 explained
   - Inheritance: 🙋 explained
   - Parent class: 🙋 explained
   - Polymorphism: 🙋 explained
   - Abstract class: 🙋 explained
   - Interface: 🎓 known
-  - Encapsulation: 🖐️ used
-  - Hidden class: 👂 heard
+  - Encapsulation: 🙋 explained
+  - Hidden class: 🎓 known
   - Object form: 🖐️ used
   - Instance: 🙋 explained
-  - Introspection
-  - Reflection
-  - The diamond problem
+  - Introspection: 🎓 known
+  - Reflection: 🎓 known
+  - The diamond problem: 🎓 known
 - GRASP
-  - Information expert
-  - Creator
-  - Controller
-  - Indirection
-  - Low coupling
-  - High cohesion
-  - Protected variations
-  - Pure fabrication
+  - Information expert: 🎓 known
+  - Creator: 🎓 known
+  - Controller: 🎓 known
+  - Indirection: 🎓 known
+  - Low coupling: 🎓 known
+  - High cohesion: 🎓 known
+  - Protected variations: 🎓 known
+  - Pure fabrication: 🎓 known
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Single-responsibility principle (SRP): 🎓 known
+  - Open–closed principle (OCP): 🎓 known
+  - Liskov substitution principle (LSP): 🎓 known
+  - Interface segregation principle (ISP): 🎓 known
+  - Dependency inversion principle (DIP): 🎓 known
 - Patterns
-  - Singleton: 👂 heard
-  - Factory Method: 👂 heard
-  - Abstract Factory: 👂 heard
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator: 🖐️ used
-  - State
-  - Bridge
-  - Builder
+  - Singleton: 🎓 known
+  - Factory Method: 🎓 known
+  - Abstract Factory: 🎓 known
+  - Adapter: 🎓 known
+  - Observer: 🎓 known
+  - Strategy: 🎓 known
+  - Facade: 🎓 known
+  - Proxy: 🎓 known
+  - Chain of Responsibility: 🎓 known
+  - Command: 🎓 known
+  - Iterator: 🎓 known
+  - State: 🎓 known
+  - Bridge: 🎓 known
+  - Builder: 🎓 known
   - Prototype: 🎓 known
-  - Composite
-  - Decorator: 👂 heard
-  - Flyweight
-  - Mediator
-  - Memento
-  - Template Method: 🖐️ used
-  - Visitor
-  - Reactor
+  - Composite: 🎓 known
+  - Decorator: 🎓 known
+  - Flyweight: 🎓 known
+  - Mediator: 🎓 known
+  - Memento: 🎓 known
+  - Template Method: 🎓 known
+  - Visitor: 🎓 known
+  - Reactor: 🎓 known
   - Active object
   - Delegation

@@ -23,8 +23,8 @@
   - Process
 - Async contracts
   - Callbacks: 🙋 explained
-  - Callback-last-error-first: 🎓 known
-  - Thenable
+  - Callback-last-error-first: 🙋 explained
+  - Thenable: 🎓 known
   - Promise: 🎓 known
   - Async/await: 🖐️ used
   - Future
@@ -32,7 +32,7 @@
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event: 🎓 known
+  - Event: 🖐️ used
   - Coroutine
   - Goroutine
   - Signal
